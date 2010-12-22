@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XNASingleStroke", "XNASingleStroke\XNASingleStroke.csproj", "{C9550F26-0020-4FFD-8F51-006A2CC5B2BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C9550F26-0020-4FFD-8F51-006A2CC5B2BB}.Debug|x86.ActiveCfg = Debug|x86
+		{C9550F26-0020-4FFD-8F51-006A2CC5B2BB}.Debug|x86.Build.0 = Debug|x86
+		{C9550F26-0020-4FFD-8F51-006A2CC5B2BB}.Release|x86.ActiveCfg = Release|x86
+		{C9550F26-0020-4FFD-8F51-006A2CC5B2BB}.Release|x86.Build.0 = Release|x86
+		{7C8D78C5-33E2-41BC-9AB1-FD5DB0878803}.Debug|x86.ActiveCfg = Debug|x86
+		{7C8D78C5-33E2-41BC-9AB1-FD5DB0878803}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
